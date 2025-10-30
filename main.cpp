@@ -7,5 +7,6 @@ int main() {
     cin >> a >> b;
     cout << "Сумма: " << a + b << endl;
     cout << "Разность: " << a - b << endl;
-    cout << "Произведение: " << a * b << endl; // Добавь эту строку
+    cout << "Произведение: " << a * b << endl;
+    cout << "Частное: " << a / b << endl;
 }
